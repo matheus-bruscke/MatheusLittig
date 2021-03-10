@@ -2,9 +2,6 @@
 
 I'm a Frontend Developer, Designer UI / UX and writer in his spare time. Here you will find some unpopular opinions and ironic remarks from my day-to-day life.
 
-
-## Social
-
 You can find me at:
 
 [![Twitter Badge](https://img.shields.io/badge/-@MatheusLB4-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/MatheusLB4)](https://twitter.com/MatheusLB4) 
