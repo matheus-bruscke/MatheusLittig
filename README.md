@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Frontend Developer, Designer UI / UX and writer in his spare time. Here you will find some unpopular opinions and ironic remarks from my day-to-day life.
+I'm a Frontend Developer, Designer UI / UX and writer in his spare time. Here you will find some personal projects that I thinked it would be interesting share with puiblic, and some course projects that I did during my journey as a developer! 😄
 
 You can find me at:
 
