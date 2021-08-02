@@ -4,7 +4,6 @@ I'm a Frontend Developer, Designer UI / UX and writer in his spare time. Here yo
 
 You can find me at:
 
-[![Twitter Badge](https://img.shields.io/badge/-@MatheusLB4-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/MatheusLB4)](https://twitter.com/MatheusLB4) 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Littig-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheus-l-b-8559001a1/)](https://www.linkedin.com/in/matheus-l-b-8559001a1/) 
 [![Gmail Badge](https://img.shields.io/badge/-littig.works@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlittig.works@gmail.com)](mailto:littig.works@gmail.com)
 
