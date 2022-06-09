@@ -1,6 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
-I'm a Frontend Developer, Designer UI / UX and writer in his spare time. Here you will find some personal projects that I thinked it would be interesting share with puiblic, and some course projects that I did during my journey as a developer! 😄
+I'm a Frontend Developer, Designer UI / UX and writer in my spare time. Here you will find some personal projects that I thinked it would be interesting share with public, and some course projects that I did during my journey as a developer! 😄
 
 You can find me at:
 
