@@ -1,6 +1,6 @@
 # Hello, folks!
 
-I'm a Frontend Developer, Designer UI / UX and writer in my spare time. Here you will find some personal projects that I thinked it would be interesting share with public, and some course projects that I did during my journey as a developer! 😄
+I'm a Frontend Developer, UI/UX Designer, and writer in my spare time. Here, you will find some personal projects that I thought would be interesting to share with the public, as well as some course projects that I completed during my journey as a developer! 😄
 
 You can find me at:
 
